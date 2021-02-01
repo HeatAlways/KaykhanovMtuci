@@ -3,6 +3,7 @@ package ru.heatalways.KazykhanovMtuci;
 public class Person {
     private int age;
     private String firstName;
+    private String lastName;
 
     public Person(int age, String firstName) {
         this.age = age;
