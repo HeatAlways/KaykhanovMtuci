@@ -1,2 +1,2 @@
-# KaykhanovMtuci
+# KazykhanovMtuci
 МТУСИ <3
